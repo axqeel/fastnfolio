@@ -26,6 +26,7 @@ background.linear-gradient: $lg
 
 -- ftd.column:
 width: fill-container
+colors: #87CEEB
 children: $page.c
 
 -- end: ftd.column
