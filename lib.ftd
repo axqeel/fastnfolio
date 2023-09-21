@@ -30,6 +30,28 @@ children: $page.c
 
 -- end: ftd.column
 
+-- ftd.row:
+width: fill-container
+sticky: true
+
+-- ftd.row:
+width: fill-container
+height: hug-content
+margin.px: 10
+padding.px: 10
+border-radius.px: 20
+background.solid: #1a1a1a
+align-content: center
+
+-- ftd.text: Contact
+text-align: center
+margin-vertical.px: 10
+margin-horizontal.px: 28
+color: #f2f2f2
+link: https://www.google.com
+
+-- end: ftd.row
+
 -- footer:
 icon-1: $assets.files.assets.linkedIn.png
 url-1: https://www.linkedin.com/company/trizwit/
