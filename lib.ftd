@@ -26,7 +26,6 @@ background.linear-gradient: $lg
 
 -- ftd.column:
 width: fill-container
-colors: #87CEEB
 children: $page.c
 
 -- end: ftd.column
@@ -48,8 +47,8 @@ align-content: center
 text-align: center
 margin-vertical.px: 10
 margin-horizontal.px: 28
-color: #f2f2f2
-link: https://www.google.com
+color: #87ceeb
+link: https://wa.me/00917994617087
 
 -- end: ftd.row
 
@@ -167,7 +166,7 @@ boolean $open: false
 
 -- ftd.column:
 width: fill-container
-background.solid: #000000aa
+background.solid: #87ceeb
 sticky: true
 
 -- ftd.row:
